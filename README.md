@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pankaj Nayak</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajnayak.701&label=Profile%20views&color=0e75b6&style=flat" alt="pankajnayak009" /> 
 <p align="left">
@@ -7,6 +5,8 @@
   <img src="https://github.com/user-attachments/assets/e331bc70-5065-482d-8713-3b727b0a33b3" alt="pankajnayak701" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Pankaj Nayak</h1>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 ---
 
