@@ -1,4 +1,4 @@
-
+   
 
 <p align="left">
  
@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **Bootstrap & Advanced JavaScript**  
+- 🌱 I’m currently learning **Bootstrap & Advanced JavaScript**            
 - 👯 I’m looking to collaborate on **Front-End Web Development Projects**  
 - 👨‍💻 All of my projects are available on **[My Portfolio](#)**  
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, C#, MySQL**  
