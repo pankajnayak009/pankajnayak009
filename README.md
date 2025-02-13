@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajnayak.701&label=Profile%20views&color=0e75b6&style=flat" alt="pankajnayak009" /> 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/736e09a2-3046-40e0-889b-8305cc334d1c" alt="pankajnayak701" />
+ 
   <img src="https://github.com/user-attachments/assets/e331bc70-5065-482d-8713-3b727b0a33b3" alt="pankajnayak701" />
 </p>
 
