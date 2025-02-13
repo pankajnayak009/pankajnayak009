@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available on **[My Portfolio](#)**  
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, C#, MySQL**  
 - 📫 How to reach me **pankajnayak3931@gmail.com**  
-- ⚡  I think I'm funny sometimes!**  
+- ⚡  Fun fact I think I'm funny sometimes**  
 
 ---
 
