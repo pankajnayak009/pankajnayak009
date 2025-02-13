@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajnayak.701&label=Profile%20views&color=0e75b6&style=flat" alt="pankajnayak009" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pankajnayak701&label=Profile%20views&color=0e75b6&style=flat" alt="pankajnayak701" />
+</p>
 
 ---
 
