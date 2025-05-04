@@ -10,15 +10,17 @@
 
 ---
 
-### 🚀 About Me:
-- 🌱 I’m currently learning **Bootstrap & Advanced JavaScript**            
-- 👯 I’m looking to collaborate on **Front-End Web Development Projects**  
-- 👨‍💻 All of my projects are available on **[My Portfolio](#)**  
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, C#, MySQL**  
-- 📫 How to reach me **pankajnayak3931@gmail.com**  
-- ⚡  Fun fact I think I'm funny sometimes**  
+### 🚀 About Me
 
----
+Hi there! I'm **Pankaj Nayak**, a dedicated and enthusiastic **Front-End Developer** currently working at [Born to Code Pvt. Ltd.](#). I specialize in crafting clean, responsive, and user-friendly web interfaces.
+
+- 🌱 Actively learning **JavaScript** and **React.js** to level up my frontend development skills  
+- 👨‍💻 Passionate about building real-world projects that solve problems and provide great UX  
+- 👯 Open to collaborating on exciting **Front-End Web Development** projects  
+- 💼 Check out some of my work: [My Portfolio](#)  
+- 💬 Ask me about: **HTML, CSS, Bootstrap, JavaScript, React.js, C#, MySQL**  
+- 📫 Reach me at: **pankajnayak3931@gmail.com**  
+- ⚡ Fun fact: I love cracking jokes — though sometimes my dark humor isn’t for everyone 😅  
 
 ### 📫 Connect with Me:
 <p align="left">
